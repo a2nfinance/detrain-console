@@ -1,5 +1,5 @@
 {
-  "name": "grantme",
+  "name": "detrain-console",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a2nfinance/detrain.git"
+    "url": "git+https://github.com/a2nfinance/detrain-console.git"
   },
   "keywords": [
     "a2n",
@@ -56,9 +56,9 @@
   "author": "a2n.finance",
   "license": "BSL",
   "bugs": {
-    "url": "https://github.com/a2nfinance/detrain/issues"
+    "url": "https://github.com/a2nfinance/detrain-console/issues"
   },
-  "homepage": "https://github.com/a2nfinance/detrain#readme",
+  "homepage": "https://github.com/a2nfinance/detrain-console#readme",
   "eslintConfig": {
     "extends": "react-app"
   },
